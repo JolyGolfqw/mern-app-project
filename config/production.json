@@ -1,0 +1,7 @@
+{
+    "port": 5000,
+    "baseUrl": "http://localhost:5000",
+    "secret": "blablablabla",
+    "server" : "mongodb+srv://overlord:Edb22edb22@cluster0.e2awg.mongodb.net/mern-course"
+
+}
